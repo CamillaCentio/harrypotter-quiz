@@ -44,8 +44,8 @@ Test your knowledge of the Harry Potter books and movies with this fun quiz game
 - User authentication for name and age
 - User input validation for name and age
 
-  ![Features of the game](assets/images/features4.png)
-
+  
+![Features of the game](assets/images/pic1.png)
 ---
 
 ## How to Play
@@ -58,7 +58,7 @@ Test your knowledge of the Harry Potter books and movies with this fun quiz game
 6. After completing a quiz, you will be prompted to play again or quit.
 7. At any time, you can view the top five scores on the scoreboard.
 
-![Fun Math Game Screenshot 2](assets/images/howtoplay.png)
+![How to play](assets/images/pic4.png)
 
 ---
 
@@ -80,7 +80,7 @@ Test your knowledge of the Harry Potter books and movies with this fun quiz game
 - A perfect score is 100 points.
 - Your score will be added to the scoreboard, and the top five scores will be displayed.
 
-![Scoreboard of the game](assets/images/scores.png)
+![Scoreboard of the game](assets/images/pic5.png)
 
 ---
 
