@@ -172,14 +172,10 @@ A function that displays the top five scores on the Harry Potter quiz, as well a
 
 - Validate the code from Code Institutes [CI Pyhton Linter](https://pep8ci.herokuapp.com/) with error for trailing whitespace for the ascii art.
 
-  ![Screenshot from CI Python Linter](assets/images/testing.png)
-
 - The game is tested in diffrent browsers, Chrome, Safari and Firefox, without problem.
 - The game is also tested in VScode desktop version
 - The game is reading and writing to Google Sheet without problems.
 - This code has been tested on Python 3.8.10 and GSpread 4.0.1. 
-
-  ![Screenshot from Google Sheet](assets/images/googlesheet.png)
 
 ---
 
