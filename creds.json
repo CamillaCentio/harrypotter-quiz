@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "harrypotterquiz",
+  "private_key_id": "e7a7b4c016220172920a24541bf3a9504732e59e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsD/eisrPYfL7n\nUqscRGQQuH8kRfIOn/Dg//J0bobfSj/vJr6C0PUKcPD7YS2wbjP4kSNeJVJiq3K9\nJuC+qS6EllkqJK2y2FE31hn1oehkAPlhYV96beods5oBxCt2x/qf7dkdSs1Mxg7N\nTgW6MOgJpgJ14esZeHT6Fq1x7e0+HwKBPBUZd4M0zILr3ssfyi335c69exPv3MTc\ntRiu6zxBlxOWEmoVnh52PO2kFqEq+MYRGg61zHdwkm90CC7RFUXis1KM0DykZ68z\nH3r7xrmXKBKsO+8CxQJuGNmge8bDZK4WZvNdPbKJBFQF1Yu7XEbKxi9/OHXD9XMb\nnWOjlXxfAgMBAAECggEAKuhEcb8smCTrmlYEM6VeaskHc605oqoB8KoC9UQGwDIM\n5X987LRdFwB5J8bhFOk2bpsK/dRCyjZFA6RpUUJxRkET9S12X24QOuNaT+XTRPT1\nO3KD080LH+ME2cHosNNHzZALn4Fi1u1hDZOSXA8MHjPW0zzGWvCuAxuanxmdGutJ\nFI9J0lJ0WTrMF6pMt6Og2P4Xh4kkx8xSjO27rlTTx4AZ5GtmDfVFXN8XKa0ACy7l\npugU5v0W3GEPrkwaIvmtiEnWmzz6I1Az8y4Eu7EygcQFDQsnZYSXd1ALCiwQ5EP7\nk23xdYnLu2FdVIY+YsnOtqGhIF7XBqFq1YHsz44LgQKBgQDwtc3uCM5+GecfmMnv\nE8itYeGf1SRQ5VTkueHDgb/SJGrpptEHjIRR0+SQ9vx8z3QK1DcyqaliTtN4kp0H\nwaU19cEtuE2rv7PBCCOjEnlVx05OiqJVIL0jkAxDFxqnoect4SY5zKIv1lTX/tVS\n53ughDHPLQIcE2AiS6UFXh/QHwKBgQC2/eD/HJ+UX/EJf6/d0WKQ0e7PIHgHFlsK\nBKbeQLno9R7767HwvsbiO5y8V1KJm6YNPjTFSUZISKQxfYgH0x4pbWr2pp7Vf326\nZEite0cvCjEIxVGqCbFTfSR4bTqqPUfOcbljT2y7pndFLE3S5nPGhXtNOfr2Dt/y\nxAWthk/LwQKBgBGRQzE/JUrguxR8QyiWqgu1XBEdLiRVSGfVBRwOqSA+FittSE4j\nvDh4nXLTA8RcI5zytgCVj04kcJyZHqrFQDh68hlTHSAOwqCw5mDtZTuUayuiRIyv\n8f3ZcnunAQQA9e1MREztmVyiaNjGuWzuhgBGBZiYMVI5O8fk+2sz3mCDAoGATBZQ\nIYNTTyx9Wse+5mqTo0fHFlSX08qV3BqHD861/ok9ct5TxJhutc63oxBj/1e6ubLt\n2kJXeOLLctCRaT99QRh/60LotDkonAHqvkeOF58TOGRjSmJxWxejvHced363hr1+\nqi5yNaxH13lOeqzb4uXJmRjMotcYgybCfZ5lO4ECgYEA4s+liF3BpEjUcSNg2YMy\nSj7oy/oiM4Wzaa+96rFfu/LMpTIvRjsjbrfpZlVaPlOsKJT1sFiabo2oMQBITWeq\nUnwGzzkVWo6lIPm4q8Non5YQNpuWXueE1o+UwCMBbKdDUsGhs/i5YXSIFsB0raRO\nIyByTsXVYVEH6peRusQtSIA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bjce90dev@harrypotterquiz.iam.gserviceaccount.com",
+  "client_id": "100153945966305504669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bjce90dev%40harrypotterquiz.iam.gserviceaccount.com"
+}
