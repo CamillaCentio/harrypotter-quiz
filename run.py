@@ -184,7 +184,7 @@ while True:
     print("\nYou can choose from the following categories:")
     for category in categories:
         print(f"{category}. {categories[category]['name']}")
-    category = input("Enter the category number you want to play (1-4): ")
+    category = input("\nEnter the category number you want to play (1-4): ")
 
     if category in categories:
         name, age = get_player_info()
