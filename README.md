@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/CamillaCentio/harrypotter-quiz" target="_blank">
     <img src="assets/images/logo.jpg" alt="Logo" width="250" height="100">
   </a>
 
@@ -9,7 +9,7 @@
     My Python project for Code Institute. Harry Potter Quiz.
     <br />
     <br />
-    <a href="#" target="_blank">View Demo Website</a>
+    <a href="https://harrypotter-quiz.herokuapp.com/" target="_blank">View Demo Website</a>
   </p>
 </div>
 
