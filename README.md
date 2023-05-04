@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/CamillaCentio/harrypotter-quiz" target="_blank">
-    <img src="assets/images/logo.jpg" alt="Logo" width="250" height="100">
+    <img src="assets/images/logo.png" alt="Logo" width="250" height="100">
   </a>
 
   <h3 align="center">Project 3 - Harry Potter Quiz</h3>
