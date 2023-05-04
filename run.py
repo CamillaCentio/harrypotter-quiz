@@ -211,7 +211,7 @@ while True:
             sheet.append_row([row["Name"], row["Age"], row["Score"]])
 
     else:
-        print("Invalid input. Please enter a number from 1 to 3.")
+        print("Invalid input. Please enter a number from 1 to 4.")
 
     # Ask the player if they want to play again
     while True:
